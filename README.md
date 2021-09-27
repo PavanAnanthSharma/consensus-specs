@@ -1,11 +1,14 @@
 # Ethereum Proof-of-Stake Consensus Specifications
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Join the chat at https://discord.gg/qGpsxSA](https://img.shields.io/badge/chat-on%20discord-blue.svg)](https://discord.gg/qGpsxSA) [![Join the chat at https://gitter.im/ethereum/sharding](https://badges.gitter.im/ethereum/sharding.svg)](https://gitter.im/ethereum/sharding?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 To learn more about proof-of-stake and sharding, see the [PoS FAQ](https://eth.wiki/en/concepts/proof-of-stake-faqs), [sharding FAQ](https://eth.wiki/sharding/Sharding-FAQs) and the [research compendium](https://notes.ethereum.org/s/H1PGqDhpm).
 
 This repository hosts the current Ethereum proof-of-stake specifications. Discussions about design rationale and proposed changes can be brought up and discussed as issues. Solidified, agreed-upon changes to the spec can be made through pull requests.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Specs
 
@@ -14,7 +17,10 @@ This repository hosts the current Ethereum proof-of-stake specifications. Discus
 Core specifications for Ethereum proof-of-stake clients can be found in [specs](specs/). These are divided into features.
 Features are researched and developed in parallel, and then consolidated into sequential upgrades when ready.
 
-The current features are:
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+>The current features are:
+
 
 ### Phase 0
 
