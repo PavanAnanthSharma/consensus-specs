@@ -93,6 +93,8 @@ Additional specifications and standards outside of requisite client functionalit
 * [Beacon APIs](https://github.com/ethereum/beacon-apis)
 * [Beacon Metrics](https://github.com/ethereum/beacon-metrics/)
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Design goals
 
 The following are the broad design goals for the Ethereum proof-of-stake consensus specifications:
@@ -102,11 +104,15 @@ The following are the broad design goals for the Ethereum proof-of-stake consens
 * to utilize crypto and design techniques that allow for a large participation of validators in total and per unit time
 * to allow for a typical consumer laptop with `O(C)` resources to process/validate `O(1)` shards (including any system level validation such as the beacon chain)
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Useful external resources
 
 * [Design Rationale](https://notes.ethereum.org/s/rkhCgQteN#)
 * [Phase 0 Onboarding Document](https://notes.ethereum.org/s/Bkn3zpwxB)
 * [Combining GHOST and Casper paper](https://arxiv.org/abs/2003.03052)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## For spec contributors
 
@@ -114,6 +120,10 @@ Documentation on the different components used during spec writing can be found 
 * [YAML Test Generators](tests/generators/README.md)
 * [Executable Python Spec, with Py-tests](tests/core/pyspec/README.md)
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Consensus spec tests
 
 Conformance tests built from the executable python spec are available in the [Ethereum Proof-of-Stake Consensus Spec Tests](https://github.com/ethereum/consensus-spec-tests) repo. Compressed tarballs are available in [releases](https://github.com/ethereum/consensus-spec-tests/releases).
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
