@@ -31,6 +31,8 @@ Features are researched and developed in parallel, and then consolidated into se
 * [P2P Networking](specs/phase0/p2p-interface.md)
 * [Weak Subjectivity](specs/phase0/weak-subjectivity.md)
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### Altair
 
 * [Beacon chain changes](specs/altair/beacon-chain.md)
@@ -38,6 +40,8 @@ Features are researched and developed in parallel, and then consolidated into se
 * [Light client sync protocol](specs/altair/sync-protocol.md)
 * [Honest Validator guide changes](specs/altair/validator.md)
 * [P2P Networking](specs/altair/p2p-interface.md)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Merge
 
@@ -52,6 +56,8 @@ The merge is still actively in development. The exact specification has not been
   * [Fork Choice changes](specs/merge/fork-choice.md)
   * [Validator additions](specs/merge/validator.md)
   * [Client settings](specs/merge/client-settings.md)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Sharding
 
@@ -70,11 +76,15 @@ Sharding follows the merge, and is divided into three parts:
   * [Fork Choice](specs/das/fork-choice.md)
   * [Sampling process](specs/das/sampling.md)
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### Accompanying documents can be found in [specs](specs) and include:
 
 * [SimpleSerialize (SSZ) spec](ssz/simple-serialize.md)
 * [Merkle proof formats](ssz/merkle-proofs.md)
 * [General test format](tests/formats/README.md)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Additional specifications for client implementers
 
